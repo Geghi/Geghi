@@ -1,70 +1,82 @@
-<p align="center">
-  <img src="assets/avatar.png" alt="Profile" width="140" height="140">
-</p>
+<div align="center">
 
-<p align="center" style="font-size: 22px; font-weight: 600; margin-top: 0;">
-  👋 <strong>Passionate about crafting clever solutions powered by AI and cutting-edge technology.</strong>
-</p>
+<img src="assets/avatar.png" alt="Giacomo Mantovani" width="120" height="120">
 
-<p align="center" style="font-size: 18px; margin-top: 5px; margin-bottom: 20px;">
-  These are the secret ingredients I use every day:
-</p>
+# Giacomo Mantovani
 
----
+<a href="https://mantovani-giacomo.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7B61FF&center=true&vCenter=true&width=620&lines=Senior+AI+Engineer+%40+Mokka+Studios;CTO+%26+Co-founder+%40+IGEA;RAG+%C2%B7+AI+Agents+%C2%B7+Document+AI+%C2%B7+Voice+AI;LLM+systems+that+run+in+production" alt="Senior AI Engineer · CTO @ IGEA · RAG · Agents · Voice AI"></a>
 
-# 💻 Tech Stack
+I build production LLM systems end to end: retrieval, agents, document pipelines and voice,<br>
+with spend caps, evals and quality checks so they keep working after launch.
 
-### 🧠 AI & Generative AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6C37?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0096FF?style=for-the-badge&logo=databricks&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-43A047?style=for-the-badge&logo=leaflet&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-E84D8A?style=for-the-badge&logo=databricks&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mantovani--giacomo.com-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mantovani-giacomo.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-mantovani1996)
+[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mantovani.giacomo96@gmail.com)
 
-### 🎙️ AI Voice Agents & Speech
-![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white)
-![AI Voice Agents](https://img.shields.io/badge/AI_Voice_Agents-7B61FF?style=for-the-badge)
-![Realtime AI](https://img.shields.io/badge/Realtime_AI-FF4081?style=for-the-badge)
-![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-0096FF?style=for-the-badge)
-![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-FF6C37?style=for-the-badge)
-![SIP Telephony](https://img.shields.io/badge/SIP_Telephony-2E7D32?style=for-the-badge)
+</div>
 
-### 🚀 Backend & Cloud
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+## ⚡ Now
 
-### ⚛️ Frontend & Web
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🧠 **Senior AI Engineer @ Mokka Studios**: AI content engine for SEO and AI search (research → draft → AI review → publish), plus the AWS backend and AI reports of a consumer investing platform
+- 📞 **CTO & Co-founder @ IGEA**: AI voice receptionist for healthcare clinics: booking flows, tool calling, telephony, GDPR-aware multi-tenant design
+- 👗 **Before**: Tech Lead AI @ Estyl (conversational shopping over a 2M+ product catalogue) and AI Engineer @ Sprint Reply (GenAI for banking and insurance)
 
-### 🔐 Security, Privacy & Compliance
-![GDPR](https://img.shields.io/badge/GDPR-0052CC?style=for-the-badge)
-![Data Privacy](https://img.shields.io/badge/Data_Privacy-2E7D32?style=for-the-badge)
-![Secure AI](https://img.shields.io/badge/Secure_AI-7B61FF?style=for-the-badge)
-![Healthcare Tech](https://img.shields.io/badge/Healthcare_Tech-00A6A6?style=for-the-badge)
-![Banking Tech](https://img.shields.io/badge/Banking_Tech-1F2937?style=for-the-badge)
-![Audit Logging](https://img.shields.io/badge/Audit_Logging-FF6C37?style=for-the-badge)
+## 📈 Impact
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Geghi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Geghi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geghi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Geghi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| 🎫 **1M+** | 📄 **2,500/day** | ⏱️ **−84%** | 💸 **−45%** | 🎯 **90%+** |
+| :---: | :---: | :---: | :---: | :---: |
+| tickets/year routed by an LLM agent | documents extracted and validated | manual work on financial statements | AI cost per generated article | fully correct answers on 2M+ product retrieval |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 🧰 Stack
+
+<div align="center">
+
+**AI**<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square&logo=livekit&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5DFECA?style=flat-square&logoColor=black)
+![Azure Document Intelligence](https://img.shields.io/badge/Document_Intelligence-0078D4?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+**Backend · Data · Cloud**<br>
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,ts,kafka,postgres,mongodb,supabase,redis,docker,githubactions,aws,gcp,azure,cloudflare,openshift&perline=16" alt="Backend and cloud stack">
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,svelte,tailwind,vercel&perline=16" alt="Frontend stack">
+
+</div>
+
+## 📊 GitHub in numbers
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Geghi&theme=dark&hide_border=true&background=0D1117&ring=7B61FF&fire=FF6C37&currStreakLabel=7B61FF">
+  <img src="https://streak-stats.demolab.com/?user=Geghi&hide_border=true&ring=7B61FF&fire=FF6C37&currStreakLabel=7B61FF" alt="Contribution streak">
+</picture>
+
+<img src="metrics/overview.svg" alt="GitHub overview">
+
+<img src="metrics/isocalendar.svg" alt="Contribution calendar">
+
+<img src="metrics/languages.svg" alt="Most used languages">
+
+<img src="metrics/achievements.svg" alt="Achievements">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geghi/Geghi/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Geghi/Geghi/output/snake.svg" alt="Contribution snake">
+</picture>
+
+<sub>Most of my work lives in private client repositories; the cards above include it.</sub>
+
+</div>
