@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/metrics.yml"]
+    paths: [".github/workflows/metrics.yml", "scripts/**"]
 
 jobs:
   metrics:
@@ -12,16 +12,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Overview
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/overview.svg
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Europe/Rome
-          config_display: large
-          repositories_affiliations: owner, collaborator
+      - uses: actions/checkout@v5
+      - name: Stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          node scripts/cards.mjs
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics
+          git diff --cached --quiet || { git commit -m "chore: refresh stats cards" && git push; }
 
       - name: Contribution calendar
         uses: lowlighter/metrics@v3.34

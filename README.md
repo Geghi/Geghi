@@ -23,13 +23,10 @@ with spend caps, evals and quality checks so they keep working after launch.
 
 ## 📈 Impact
 
-<div align="center">
-
-| 🎫 **1M+** | 📄 **2,500/day** | ⏱️ **−84%** | 💸 **−45%** | 🎯 **90%+** |
-| :---: | :---: | :---: | :---: | :---: |
-| tickets/year routed by an LLM agent | documents extracted and validated | manual work on financial statements | AI cost per generated article | fully correct answers on 2M+ product retrieval |
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="metrics/impact-dark.svg">
+  <img src="metrics/impact.svg" alt="1M+ tickets/year routed by an LLM agent · 2,500 documents/day extracted · −84% manual work · −45% AI cost per article · 90%+ fully correct answers">
+</picture>
 
 ## 🧰 Stack
 
@@ -60,11 +57,9 @@ with spend caps, evals and quality checks so they keep working after launch.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Geghi&theme=dark&hide_border=true&background=0D1117&ring=7B61FF&fire=FF6C37&currStreakLabel=7B61FF">
-  <img src="https://streak-stats.demolab.com/?user=Geghi&hide_border=true&ring=7B61FF&fire=FF6C37&currStreakLabel=7B61FF" alt="Contribution streak">
+  <source media="(prefers-color-scheme: dark)" srcset="metrics/stats-dark.svg">
+  <img src="metrics/stats.svg" alt="GitHub stats for the last 12 months">
 </picture>
-
-<img src="metrics/overview.svg" alt="GitHub overview">
 
 <img src="metrics/isocalendar.svg" alt="Contribution calendar">
 
@@ -77,6 +72,6 @@ with spend caps, evals and quality checks so they keep working after launch.
   <img src="https://raw.githubusercontent.com/Geghi/Geghi/output/snake.svg" alt="Contribution snake">
 </picture>
 
-<sub>Most of my work lives in private client repositories; the cards above include it.</sub>
+<sub>Last 12 months, refreshed daily. Most of my work lives in private client repositories and is included.</sub>
 
 </div>
