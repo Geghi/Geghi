@@ -61,15 +61,9 @@ with spend caps, evals and quality checks so they keep working after launch.
   <img src="metrics/stats.svg" alt="GitHub stats for the last 12 months">
 </picture>
 
-<img src="metrics/isocalendar.svg" alt="Contribution calendar">
-
-<img src="metrics/languages.svg" alt="Most used languages">
-
-<img src="metrics/achievements.svg" alt="Achievements">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geghi/Geghi/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Geghi/Geghi/output/snake.svg" alt="Contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="metrics/calendar-dark.svg">
+  <img src="metrics/calendar.svg" alt="Contribution calendar for the last 12 months">
 </picture>
 
 <sub>Last 12 months, refreshed daily. Most of my work lives in private client repositories and is included.</sub>
