@@ -4,7 +4,7 @@
 
 # Giacomo Mantovani
 
-<a href="https://mantovani-giacomo.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7B61FF&center=true&vCenter=true&width=620&lines=Senior+AI+Engineer+%40+Mokka+Studios;CTO+%26+Co-founder+%40+IGEA;RAG+%C2%B7+AI+Agents+%C2%B7+Document+AI+%C2%B7+Voice+AI;LLM+systems+that+run+in+production" alt="Senior AI Engineer · CTO @ IGEA · RAG · Agents · Voice AI"></a>
+<a href="https://mantovani-giacomo.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7B61FF&center=true&vCenter=true&width=620&lines=Senior+Applied+AI+Engineer+%C2%B7+Freelancer;CTO+%26+Co-founder+%40+IGEA;RAG+%C2%B7+AI+Agents+%C2%B7+Document+AI+%C2%B7+Voice+AI;LLM+systems+that+run+in+production" alt="Senior Applied AI Engineer · Freelancer · CTO @ IGEA · RAG · Agents · Voice AI"></a>
 
 I build production LLM systems end to end: retrieval, agents, document pipelines and voice,<br>
 with spend caps, evals and quality checks so they keep working after launch.
@@ -17,9 +17,9 @@ with spend caps, evals and quality checks so they keep working after launch.
 
 ## ⚡ Now
 
-- 🧠 **Senior AI Engineer @ Mokka Studios**: AI content engine for SEO and AI search (research → draft → AI review → publish), plus the AWS backend and AI reports of a consumer investing platform
+- 🧠 **Senior Applied AI Engineer · Freelancer**: production LLM systems for clients, from RAG and agents to document and voice pipelines
 - 📞 **CTO & Co-founder @ IGEA**: AI voice receptionist for healthcare clinics: booking flows, tool calling, telephony, GDPR-aware multi-tenant design
-- 👗 **Before**: Tech Lead AI @ Estyl (conversational shopping over a 2M+ product catalogue) and AI Engineer @ Sprint Reply (GenAI for banking and insurance)
+- 👗 **Before**: Senior AI Engineer @ Mokka Studios (AI content engine for SEO/AI search, AWS backend of an investing platform), Tech Lead AI @ Estyl (conversational shopping over a 2M+ product catalogue) and AI Engineer @ Sprint Reply (GenAI for banking and insurance)
 
 ## 📈 Impact
 
